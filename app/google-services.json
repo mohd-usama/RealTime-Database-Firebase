@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1036720250220",
+    "firebase_url": "https://realtime-database-3a5ed-default-rtdb.firebaseio.com",
+    "project_id": "realtime-database-3a5ed",
+    "storage_bucket": "realtime-database-3a5ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036720250220:android:6a5d24191e59f81b626749",
+        "android_client_info": {
+          "package_name": "com.example.realtime_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036720250220-5jqpc7pu73u4r8ohh97f64uiu55mgknd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb9ROyOj0itvdn_X8JeO9kMsc757GJod8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036720250220-5jqpc7pu73u4r8ohh97f64uiu55mgknd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
